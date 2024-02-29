@@ -1,6 +1,0 @@
-add features:
-
-create new booking
-edit booking?
-check in and check out times
-price variation by date
